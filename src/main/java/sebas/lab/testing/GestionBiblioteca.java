@@ -11,7 +11,8 @@ import java.util.List;
  *
  * @author jacks
  */
-public class GestionBiblioteca {
+public class
+GestionBiblioteca {
         private List<String> librosDisponibles;
     private static final int CAPACIDAD_MAXIMA = 100;
     
